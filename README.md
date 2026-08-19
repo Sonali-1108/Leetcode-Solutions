@@ -14,10 +14,12 @@ My daily LeetCode solutions
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0412-fizz-buzz](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0412-fizz-buzz](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -47,4 +49,8 @@ My daily LeetCode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0013-roman-to-integer](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 <!---LeetCode Topics End-->
