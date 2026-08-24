@@ -21,6 +21,7 @@ My daily LeetCode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
+| [0242-valid-anagram](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0412-fizz-buzz](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -59,8 +60,10 @@ My daily LeetCode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
+| [0242-valid-anagram](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
+| [0242-valid-anagram](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 <!---LeetCode Topics End-->
