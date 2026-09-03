@@ -10,6 +10,7 @@ My daily LeetCode solutions
 | [0088-merge-sorted-array](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0217-contains-duplicate](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
+| [0283-move-zeroes](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0704-binary-search](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0704-binary-search/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Matrix
@@ -41,6 +42,7 @@ My daily LeetCode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
+| [0283-move-zeroes](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
