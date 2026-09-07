@@ -8,6 +8,7 @@ My daily LeetCode solutions
 | ------- | ------- |
 | [0027-remove-element](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0035-search-insert-position/) | Easy |
+| [0066-plus-one](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0217-contains-duplicate](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
@@ -25,6 +26,7 @@ My daily LeetCode solutions
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
+| [0066-plus-one](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0066-plus-one/) | Easy |
 | [0412-fizz-buzz](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 ## String
 | Problem Name | Difficulty |
