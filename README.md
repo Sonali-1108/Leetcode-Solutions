@@ -10,6 +10,7 @@ My daily LeetCode solutions
 | [0035-search-insert-position](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
+| [0118-pascals-triangle](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0217-contains-duplicate](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0283-move-zeroes/) | Easy |
@@ -91,5 +92,6 @@ My daily LeetCode solutions
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0118-pascals-triangle](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 <!---LeetCode Topics End-->
