@@ -15,12 +15,14 @@ My daily LeetCode solutions
 | [0217-contains-duplicate](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0704-binary-search](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0704-binary-search/) | Easy |
+| [0867-transpose-matrix](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0867-transpose-matrix/) | Easy |
 | [1470-shuffle-the-array](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/1470-shuffle-the-array/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/1672-richest-customer-wealth/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0867-transpose-matrix](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0867-transpose-matrix/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -41,6 +43,7 @@ My daily LeetCode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
+| [0867-transpose-matrix](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0867-transpose-matrix/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
