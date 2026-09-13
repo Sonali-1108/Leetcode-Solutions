@@ -50,6 +50,7 @@ My daily LeetCode solutions
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -113,4 +114,8 @@ My daily LeetCode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 <!---LeetCode Topics End-->
