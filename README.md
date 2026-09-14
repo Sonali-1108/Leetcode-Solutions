@@ -32,6 +32,7 @@ My daily LeetCode solutions
 | [0013-roman-to-integer](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0066-plus-one](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0066-plus-one/) | Easy |
 | [0412-fizz-buzz](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
+| [0509-fibonacci-number](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -106,6 +107,7 @@ My daily LeetCode solutions
 | ------- | ------- |
 | [0118-pascals-triangle](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0509-fibonacci-number](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -118,4 +120,9 @@ My daily LeetCode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0509-fibonacci-number](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
