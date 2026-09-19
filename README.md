@@ -42,6 +42,7 @@ My daily LeetCode solutions
 | [0058-length-of-last-word](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0058-length-of-last-word/) | Easy |
 | [0242-valid-anagram](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0412-fizz-buzz](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
+| [0771-jewels-and-stones](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0771-jewels-and-stones/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -101,6 +102,7 @@ My daily LeetCode solutions
 | [0013-roman-to-integer](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0217-contains-duplicate](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0242-valid-anagram/) | Easy |
+| [0771-jewels-and-stones](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0771-jewels-and-stones/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
