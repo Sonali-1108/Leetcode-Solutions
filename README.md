@@ -13,6 +13,7 @@ My daily LeetCode solutions
 | [0088-merge-sorted-array](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0118-pascals-triangle](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0136-single-number](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0136-single-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0704-binary-search](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0704-binary-search/) | Easy |
@@ -150,4 +151,8 @@ My daily LeetCode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0136-single-number](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0136-single-number/) | Easy |
 <!---LeetCode Topics End-->
