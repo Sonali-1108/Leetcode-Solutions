@@ -155,4 +155,8 @@ My daily LeetCode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0136-single-number/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0183-customers-who-never-order](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0183-customers-who-never-order/) | Easy |
 <!---LeetCode Topics End-->
