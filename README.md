@@ -162,5 +162,6 @@ My daily LeetCode solutions
 | [0183-customers-who-never-order](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0183-customers-who-never-order/) | Easy |
 | [0577-employee-bonus](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0577-employee-bonus/) | Easy |
 | [0584-find-customer-referee](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0584-find-customer-referee/) | Easy |
+| [1148-article-views-i](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/1148-article-views-i/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 <!---LeetCode Topics End-->
