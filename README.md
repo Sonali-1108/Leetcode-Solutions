@@ -19,6 +19,7 @@ My daily LeetCode solutions
 | [0704-binary-search](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0704-binary-search/) | Easy |
 | [0867-transpose-matrix](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0867-transpose-matrix/) | Easy |
 | [1470-shuffle-the-array](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/1470-shuffle-the-array/) | Easy |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/1672-richest-customer-wealth/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 ## Matrix
@@ -44,6 +45,7 @@ My daily LeetCode solutions
 | [0242-valid-anagram](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0412-fizz-buzz](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0771-jewels-and-stones](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0771-jewels-and-stones/) | Easy |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
