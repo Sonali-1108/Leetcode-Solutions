@@ -35,6 +35,7 @@ My daily LeetCode solutions
 | [0066-plus-one](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0066-plus-one/) | Easy |
 | [0412-fizz-buzz](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0509-fibonacci-number](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
+| [1323-maximum-69-number](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/1323-maximum-69-number/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -172,4 +173,8 @@ My daily LeetCode solutions
 | [1667-fix-names-in-a-table](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/1667-fix-names-in-a-table/) | Easy |
 | [1683-invalid-tweets](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/1683-invalid-tweets/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1323-maximum-69-number](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/1323-maximum-69-number/) | Easy |
 <!---LeetCode Topics End-->
