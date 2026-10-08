@@ -36,6 +36,7 @@ My daily LeetCode solutions
 | [0412-fizz-buzz](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0509-fibonacci-number](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [1323-maximum-69-number](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/1323-maximum-69-number/) | Easy |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/1742-maximum-number-of-balls-in-a-box/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -107,6 +108,7 @@ My daily LeetCode solutions
 | [0217-contains-duplicate](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0771-jewels-and-stones](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0771-jewels-and-stones/) | Easy |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/1742-maximum-number-of-balls-in-a-box/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -177,4 +179,8 @@ My daily LeetCode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1323-maximum-69-number](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/1323-maximum-69-number/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/1742-maximum-number-of-balls-in-a-box/) | Easy |
 <!---LeetCode Topics End-->
