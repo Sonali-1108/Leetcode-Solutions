@@ -171,6 +171,7 @@ My daily LeetCode solutions
 | [0584-find-customer-referee](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0584-find-customer-referee/) | Easy |
 | [0595-big-countries](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0595-big-countries/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0596-classes-with-at-least-5-students/) | Easy |
+| [1068-product-sales-analysis-i](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1148-article-views-i](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/1148-article-views-i/) | Easy |
 | [1667-fix-names-in-a-table](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/1667-fix-names-in-a-table/) | Easy |
 | [1683-invalid-tweets](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/1683-invalid-tweets/) | Easy |
