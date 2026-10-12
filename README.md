@@ -21,6 +21,7 @@ My daily LeetCode solutions
 | [1470-shuffle-the-array](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/1470-shuffle-the-array/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/1672-richest-customer-wealth/) | Easy |
+| [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/1893-check-if-all-the-integers-in-a-range-are-covered/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -109,6 +110,7 @@ My daily LeetCode solutions
 | [0242-valid-anagram](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0771-jewels-and-stones](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0771-jewels-and-stones/) | Easy |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/1742-maximum-number-of-balls-in-a-box/) | Easy |
+| [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/1893-check-if-all-the-integers-in-a-range-are-covered/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -186,4 +188,8 @@ My daily LeetCode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/1742-maximum-number-of-balls-in-a-box/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/1893-check-if-all-the-integers-in-a-range-are-covered/) | Easy |
 <!---LeetCode Topics End-->
