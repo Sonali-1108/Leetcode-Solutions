@@ -177,6 +177,7 @@ My daily LeetCode solutions
 | [1068-product-sales-analysis-i](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1148-article-views-i](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/1148-article-views-i/) | Easy |
 | [1393-capital-gainloss](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/1393-capital-gainloss/) | Medium |
+| [1527-patients-with-a-condition](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/1527-patients-with-a-condition/) | Easy |
 | [1667-fix-names-in-a-table](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/1667-fix-names-in-a-table/) | Easy |
 | [1683-invalid-tweets](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/1683-invalid-tweets/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
