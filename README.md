@@ -11,6 +11,7 @@ My daily LeetCode solutions
 | [0035-search-insert-position](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0118-pascals-triangle](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0136-single-number/) | Easy |
@@ -81,6 +82,7 @@ My daily LeetCode solutions
 | [0094-binary-tree-inorder-traversal](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0101-symmetric-tree/) | Easy |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
@@ -99,6 +101,7 @@ My daily LeetCode solutions
 | [0094-binary-tree-inorder-traversal](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0101-symmetric-tree/) | Easy |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
@@ -194,4 +197,12 @@ My daily LeetCode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/1893-check-if-all-the-integers-in-a-range-are-covered/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 <!---LeetCode Topics End-->
