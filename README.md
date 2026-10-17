@@ -39,6 +39,7 @@ My daily LeetCode solutions
 | [0509-fibonacci-number](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [1323-maximum-69-number](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/1323-maximum-69-number/) | Easy |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/1742-maximum-number-of-balls-in-a-box/) | Easy |
+| [2235-add-two-integers](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/2235-add-two-integers/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
