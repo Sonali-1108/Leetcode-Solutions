@@ -8,8 +8,7 @@ class Solution {
             sum += digit;
             product *= digit;
             n /= 10;
-        }return product - sum;
+        }
+        return product - sum;
     }
 }
-        
-        
