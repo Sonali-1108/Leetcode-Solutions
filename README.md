@@ -38,6 +38,7 @@ My daily LeetCode solutions
 | [0066-plus-one](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0066-plus-one/) | Easy |
 | [0412-fizz-buzz](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0509-fibonacci-number](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1323-maximum-69-number](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/1323-maximum-69-number/) | Easy |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/1742-maximum-number-of-balls-in-a-box/) | Easy |
 | [2235-add-two-integers](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/2235-add-two-integers/) | Easy |
