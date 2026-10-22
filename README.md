@@ -92,6 +92,7 @@ My daily LeetCode solutions
 | [0110-balanced-binary-tree](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [2236-root-equals-sum-of-children](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/2236-root-equals-sum-of-children/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -111,6 +112,7 @@ My daily LeetCode solutions
 | [0110-balanced-binary-tree](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [2236-root-equals-sum-of-children](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/2236-root-equals-sum-of-children/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
