@@ -40,6 +40,7 @@ My daily LeetCode solutions
 | [0509-fibonacci-number](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1323-maximum-69-number](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/1323-maximum-69-number/) | Easy |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/1742-maximum-number-of-balls-in-a-box/) | Easy |
 | [2235-add-two-integers](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/2235-add-two-integers/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/2413-smallest-even-multiple/) | Easy |
@@ -173,6 +174,7 @@ My daily LeetCode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0136-single-number/) | Easy |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
