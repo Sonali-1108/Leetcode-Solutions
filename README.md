@@ -48,6 +48,7 @@ My daily LeetCode solutions
 | [2413-smallest-even-multiple](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2469-convert-the-temperature](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/2469-convert-the-temperature/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
+| [2651-calculate-delayed-arrival-time](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/2651-calculate-delayed-arrival-time/) | Easy |
 | [2652-sum-multiples](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/2652-sum-multiples/) | Easy |
 ## String
 | Problem Name | Difficulty |
