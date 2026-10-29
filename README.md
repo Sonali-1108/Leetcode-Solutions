@@ -44,6 +44,7 @@ My daily LeetCode solutions
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/1742-maximum-number-of-balls-in-a-box/) | Easy |
+| [2169-count-operations-to-obtain-zero](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
 | [2235-add-two-integers](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/2235-add-two-integers/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2469-convert-the-temperature](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/2469-convert-the-temperature/) | Easy |
@@ -68,6 +69,7 @@ My daily LeetCode solutions
 | [0412-fizz-buzz](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0867-transpose-matrix](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0867-transpose-matrix/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/1920-build-array-from-permutation/) | Easy |
+| [2169-count-operations-to-obtain-zero](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
