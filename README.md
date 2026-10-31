@@ -182,6 +182,7 @@ My daily LeetCode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0136-single-number/) | Easy |
+| [0191-number-of-1-bits](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0191-number-of-1-bits/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 ## Database
 | Problem Name | Difficulty |
@@ -219,6 +220,7 @@ My daily LeetCode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0191-number-of-1-bits](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0191-number-of-1-bits/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
