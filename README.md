@@ -52,6 +52,7 @@ My daily LeetCode solutions
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [2651-calculate-delayed-arrival-time](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/2651-calculate-delayed-arrival-time/) | Easy |
 | [2652-sum-multiples](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/2652-sum-multiples/) | Easy |
+| [3099-harshad-number](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/3099-harshad-number/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
