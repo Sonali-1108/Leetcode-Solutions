@@ -21,6 +21,7 @@ My daily LeetCode solutions
 | [0867-transpose-matrix](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0867-transpose-matrix/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1470-shuffle-the-array](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/1470-shuffle-the-array/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/1893-check-if-all-the-integers-in-a-range-are-covered/) | Easy |
@@ -47,6 +48,7 @@ My daily LeetCode solutions
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1323-maximum-69-number](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/1323-maximum-69-number/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/1716-calculate-money-in-leetcode-bank/) | Easy |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/1742-maximum-number-of-balls-in-a-box/) | Easy |
@@ -137,6 +139,7 @@ My daily LeetCode solutions
 | [0217-contains-duplicate](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0771-jewels-and-stones](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0771-jewels-and-stones/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/1742-maximum-number-of-balls-in-a-box/) | Easy |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/1893-check-if-all-the-integers-in-a-range-are-covered/) | Easy |
 ## Sorting
@@ -220,6 +223,7 @@ My daily LeetCode solutions
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1512-number-of-good-pairs](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/1742-maximum-number-of-balls-in-a-box/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
