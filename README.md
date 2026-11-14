@@ -52,6 +52,7 @@ My daily LeetCode solutions
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/1716-calculate-money-in-leetcode-bank/) | Easy |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/1742-maximum-number-of-balls-in-a-box/) | Easy |
+| [2119-a-number-after-a-double-reversal](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/2119-a-number-after-a-double-reversal/) | Easy |
 | [2169-count-operations-to-obtain-zero](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
 | [2235-add-two-integers](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/2235-add-two-integers/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/2413-smallest-even-multiple/) | Easy |
