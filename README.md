@@ -29,6 +29,7 @@ My daily LeetCode solutions
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [2706-buy-two-chocolates](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/2706-buy-two-chocolates/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -150,6 +151,7 @@ My daily LeetCode solutions
 | [0088-merge-sorted-array](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0242-valid-anagram/) | Easy |
+| [2706-buy-two-chocolates](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/2706-buy-two-chocolates/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -222,6 +224,7 @@ My daily LeetCode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1323-maximum-69-number](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/1323-maximum-69-number/) | Easy |
+| [2706-buy-two-chocolates](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/2706-buy-two-chocolates/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
