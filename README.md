@@ -20,6 +20,7 @@ My daily LeetCode solutions
 | [0704-binary-search](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0704-binary-search/) | Easy |
 | [0867-transpose-matrix](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0867-transpose-matrix/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1470-shuffle-the-array](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/1470-shuffle-the-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
