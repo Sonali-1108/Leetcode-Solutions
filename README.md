@@ -25,6 +25,7 @@ My daily LeetCode solutions
 | [1512-number-of-good-pairs](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/1672-richest-customer-wealth/) | Easy |
+| [1732-find-the-highest-altitude](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/1893-check-if-all-the-integers-in-a-range-are-covered/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/1920-build-array-from-permutation/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
@@ -234,6 +235,7 @@ My daily LeetCode solutions
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1732-find-the-highest-altitude](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/1893-check-if-all-the-integers-in-a-range-are-covered/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
 ## Divide and Conquer
