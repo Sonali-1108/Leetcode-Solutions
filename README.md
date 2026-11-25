@@ -18,6 +18,7 @@ My daily LeetCode solutions
 | [0217-contains-duplicate](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0704-binary-search](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0704-binary-search/) | Easy |
+| [0724-find-pivot-index](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [0867-transpose-matrix](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0867-transpose-matrix/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
@@ -235,6 +236,7 @@ My daily LeetCode solutions
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0724-find-pivot-index](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/1893-check-if-all-the-integers-in-a-range-are-covered/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Sonali-1108/Leetcode-Solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
